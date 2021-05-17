@@ -1,1 +1,10 @@
-Since in this figure we overlap theory and experimental data, to generate Fig. S5 it is required to download the files: from the IST experimental cloud storage following the link:
+Since in this figure we overlap theory and experimental data, to generate Fig. S5 it is required to download the files: 
+- DevF_conductance.txt
+- DevG_conductance.txt
+- DevH_conductance.txt
+- DevI_conductance.txt
+- DevJ_conductance.txt
+- DevK_conductance.txt
+- DevL_conductance.txt
+- DevM_conductance.txt
+from IST experimental cloud storage, following the link: https://doi.org/10.15479/AT:ISTA:9389
